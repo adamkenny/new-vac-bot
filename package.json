@@ -1,0 +1,32 @@
+{
+  "name": "batman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKitts/batman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKitts/batman/issues"
+  },
+  "homepage": "https://github.com/MrKitts/batman#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "googleapis": "^27.0.0",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^5.2.1"
+  }
+}
